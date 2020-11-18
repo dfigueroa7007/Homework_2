@@ -29,7 +29,12 @@ Link to live page:
 https://dfigueroa7007.github.io/Homework_2/
 
 
+-- Changes to index.html File --
 
-About Me section was withing index.html is now centered, includes image, and has social media linked.
+About Me section is now centered, includes image, and has social media linked.
+
+-- Changes to portfolio.html File --
+
+Project 1 was added to the cards with links to the repo, live page, and screencap of main page was included.
 
 <img src="./Assets/ProfileSC.JPG" alt="This is a screencap of the main page" width="100%" height="100%">
