@@ -15,3 +15,21 @@ Challenges currently being debugged:
 The overall layout is a basic foundation to build on and I intend on polishing this further.
 
 Thank you for your time!
+
+
+-----------
+UPDATE:
+
+As of 11/17/20
+
+Link to GitHub repo:
+https://github.com/dfigueroa7007/Homework_2
+
+Link to live page:
+https://dfigueroa7007.github.io/Homework_2/
+
+
+
+About Me section was withing index.html is now centered, includes image, and has social media linked.
+
+<img src="./Assets/ProfileSC.jpg" alt="This is a screencap of the main page" width="100%" height="100%">
