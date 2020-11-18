@@ -32,4 +32,4 @@ https://dfigueroa7007.github.io/Homework_2/
 
 About Me section was withing index.html is now centered, includes image, and has social media linked.
 
-<img src="./Assets/ProfileSC.jpg" alt="This is a screencap of the main page" width="100%" height="100%">
+<img src="./Assets/ProfileSC.JPG" alt="This is a screencap of the main page" width="100%" height="100%">
